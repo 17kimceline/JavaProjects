@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MultOfFive</label>
+		<id>103</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>MultOfFive.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MultOfFive.jcp</path>
+		</project>
+	</projects>
+</workspace>
