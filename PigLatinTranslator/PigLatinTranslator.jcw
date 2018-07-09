@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>PigLatinTranslator</label>
+		<id>36</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>PigLatinTranslator.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>PigLatinTranslator.jcp</path>
+		</project>
+	</projects>
+</workspace>
