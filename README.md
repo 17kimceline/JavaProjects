@@ -9,11 +9,14 @@
   <ul>
     <li>PigLatinTranslator: Program reads sentences and translates them into PigLatin</li>
     <li>MultofFive: Program computes the sum of multiple of five from five</li>
+  </ul>
   
-<h3>GUI Projects:</h3>
-  Calc: Programming creates a cute green calculator using the class "KeyListener"
-  Face: Program draw my face in a cute cartoon style
-  Dots: Based of the artist Yayoi Kusama, this Programs lets users draw dots, and another dot is drawn in response. 
+<h2>GUI Projects:</h2>
+  <ul>
+    <li>Calc: Programming creates a cute green calculator using the class "KeyListener"</li>
+    <li>Face: Program draw my face in a cute cartoon style</li>
+    <li>Dots: Based of the artist Yayoi Kusama, this Programs lets users draw dots, and another dot is drawn in response.</li>
+  </ul>
   
   ![Dots Project Screenshot](https://github.com/17kimceline/JavaProjects/blob/master/Images/Screenshot%20(1).png)
 </body>
