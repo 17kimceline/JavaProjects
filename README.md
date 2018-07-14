@@ -17,6 +17,7 @@
     <li>Face: Program draw my face in a cute cartoon style</li>
     <li>Dots: Based of the artist Yayoi Kusama, this Programs lets users draw dots, and another dot is drawn in response.</li>
   </ul>
+  
   ![Calc Project Screenshot](https://github.com/17kimceline/JavaProjects/blob/master/Images/Screenshot%20(3).png)
   
   ![Face Project Screenshot](https://github.com/17kimceline/JavaProjects/blob/master/Images/Screenshot%20(2).png)
