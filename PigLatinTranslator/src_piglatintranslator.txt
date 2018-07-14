@@ -1,2 +1,0 @@
-"C:\\Users\\Celine\\Documents\\JCreator LE\\MyProjects\\PigLatinTranslator\\PigLatin.java"
-"C:\\Users\\Celine\\Documents\\JCreator LE\\MyProjects\\PigLatinTranslator\\PigLatinTranslator.java"
