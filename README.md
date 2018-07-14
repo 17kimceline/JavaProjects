@@ -6,10 +6,11 @@
 
 <body>
 <h2>Beginning/Starter Projects:</h2>
-  PigLatinTranslator: Program reads sentences and translates them into PigLatin
-  MultofFive: Program computes the sum of multiple of five from five
+  <ul>
+    <li>PigLatinTranslator: Program reads sentences and translates them into PigLatin</li>
+    <li>MultofFive: Program computes the sum of multiple of five from five</li>
   
-GUI Projects:
+<h3>GUI Projects:</h3>
   Calc: Programming creates a cute green calculator using the class "KeyListener"
   Face: Program draw my face in a cute cartoon style
   Dots: Based of the artist Yayoi Kusama, this Programs lets users draw dots, and another dot is drawn in response. 
