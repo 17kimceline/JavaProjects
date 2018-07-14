@@ -1,2 +1,0 @@
-"C:\\Users\\Celine\\Documents\\JCreator LE\\MyProjects\\MultOfFive\\MultOfFive.java"
-"C:\\Users\\Celine\\Documents\\JCreator LE\\MyProjects\\MultOfFive\\MultOfFiveTester.java"
