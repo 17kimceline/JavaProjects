@@ -20,6 +20,5 @@
   
   ![Calc Project Screenshot](https://github.com/17kimceline/JavaProjects/blob/master/images/calculator1.png)
   ![Face Project Screenshot](https://github.com/17kimceline/JavaProjects/blob/master/images/face.jpg)
-  
   ![Dots Project Screenshot](https://github.com/17kimceline/JavaProjects/blob/master/images/dots.jpg)
 </body>
