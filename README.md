@@ -1,17 +1,17 @@
-# JavaProjects
 <head>
-  Projects done in Java to mark my process.
-  The projects compiled using JCreator. 
+  Projects recorded for future reference and to mark my process. The projects in Java were compiled using JCreator. 
 </head>
 
 <body>
 <h2>Beginning/Starter Projects:</h2>
+  <h3>JAVA</h3>
   <ul>
     <li>PigLatinTranslator: Program reads sentences and translates them into PigLatin</li>
     <li>MultofFive: Program computes the sum of multiple of five from five</li>
   </ul>
   
 <h2>GUI Projects:</h2>
+  <h3>JAVA</h3>
   <ul>
     <li>Calc: Programming creates a cute green calculator using the class "KeyListener"</li>
     <li>Face: Program draw my face in a cute cartoon style</li>
