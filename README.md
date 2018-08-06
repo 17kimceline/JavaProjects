@@ -18,7 +18,7 @@
     <li>Dots: Based of the artist Yayoi Kusama, this Programs lets users draw dots, and another dot is drawn in response.</li>
   </ul>
   
-  ![Calc Project Screenshot](https://github.com/17kimceline/JavaProjects/blob/master/Images/calculator.jpg)
+  ![Calc Project Screenshot](https://github.com/17kimceline/JavaProjects/blob/master/Images/calculator1.png)
   ![Face Project Screenshot](https://github.com/17kimceline/JavaProjects/blob/master/Images/face.jpg)
   
   ![Dots Project Screenshot](https://github.com/17kimceline/JavaProjects/blob/master/Images/dots.jpg)
