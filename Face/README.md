@@ -3,4 +3,4 @@
     <li>Face: Program draw my face in a cute cartoon style</li>
 
   
-  ![Face Project Screenshot](https://github.com/17kimceline/JavaProjects/blob/master/Images/Screenshot%20(2).png)
+  ![Face Project Screenshot](https://github.com/17kimceline/SmallProjects/blob/master/images/face.jpg)
