@@ -1,0 +1,342 @@
+{
+  "active_sessions": [
+    {
+      "created_timestamp": 1514612564,
+      "updated_timestamp": 1555269065,
+      "ip_address": "128.135.98.190",
+      "user_agent": "[FBAN/FB4A;FBAV/216.0.0.38.104;FBBV/149356235;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/150097051;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "yYWz********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1550129592,
+      "updated_timestamp": 1555268709,
+      "ip_address": "128.135.98.42",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36",
+      "datr_cookie": "rhll********************",
+      "device": "Windows PC",
+      "location": "Chicago, IL, United States",
+      "app": "Chrome"
+    },
+    {
+      "created_timestamp": 1515884373,
+      "updated_timestamp": 1555246960,
+      "ip_address": "128.135.98.250",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G950U Build/R16NW) [FBAN/Orca-Android;FBAV/209.0.0.17.98;FBPN/com.facebook.orca;FBLC/en_US;FBBV/148276429;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBDV/SM-G950U;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=2076};FB_FW/1;] FBBK/1",
+      "datr_cookie": "cC-z********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Messenger"
+    },
+    {
+      "created_timestamp": 1516858650,
+      "updated_timestamp": 1553803155,
+      "ip_address": "2600:1012:b10b:246c:4421:470a:8c4b:655a",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G950U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36",
+      "datr_cookie": "kAtL********************",
+      "device": "Android",
+      "location": "Irvine, CA, United States",
+      "app": "Chrome"
+    },
+    {
+      "created_timestamp": 1543605586,
+      "updated_timestamp": 1550122196,
+      "ip_address": "128.135.98.72",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36",
+      "datr_cookie": "QhrI********************",
+      "device": "Windows PC",
+      "location": "Chicago, IL, United States",
+      "app": "Chrome"
+    },
+    {
+      "created_timestamp": 1541069792,
+      "ip_address": "128.135.98.222",
+      "user_agent": "[FBAN/FB4A;FBAV/195.0.0.35.99;FBBV/128710134;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/129364151;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "4Nva********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1540448753,
+      "ip_address": "128.135.98.226",
+      "user_agent": "[FBAN/FB4A;FBAV/195.0.0.35.99;FBBV/128710134;FBDM/{density=3.0,width=1080,height=2220};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "8WHR********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1539947423,
+      "ip_address": "128.135.98.212",
+      "user_agent": "[FBAN/FB4A;FBAV/194.0.0.42.99;FBBV/127867938;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "n7vJ********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1539913234,
+      "ip_address": "128.135.98.212",
+      "user_agent": "[FBAN/FB4A;FBAV/193.0.0.45.101;FBBV/127049037;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/127621863;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "EjbJ********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1539299786,
+      "ip_address": "128.135.98.218",
+      "user_agent": "[FBAN/FB4A;FBAV/193.0.0.45.101;FBBV/127049037;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "ytm_********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1538616812,
+      "ip_address": "128.135.98.217",
+      "user_agent": "[FBAN/FB4A;FBAV/192.0.0.34.85;FBBV/126133166;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "7G21********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1538079344,
+      "ip_address": "174.213.35.183",
+      "user_agent": "[FBAN/FB4A;FBAV/191.0.0.35.96;FBBV/125357989;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "cDqt********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Whittier, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1538025137,
+      "ip_address": "2600:1012:b108:4ac0:e5b3:ac3f:19e2:1e66",
+      "user_agent": "[FBAN/FB4A;FBAV/190.0.0.34.94;FBBV/124536025;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/125375137;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "sWas********************",
+      "device": "Samsung Galaxy S8",
+      "location": "San Diego, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1537056260,
+      "ip_address": "2600:1012:b108:2317:6039:3c2e:dfff:e252",
+      "user_agent": "[FBAN/FB4A;FBAV/189.0.0.35.91;FBBV/123791499;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "BJ6d********************",
+      "device": "Samsung Galaxy S8",
+      "location": "San Diego, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1536191437,
+      "ip_address": "2600:1012:b12a:87a6:99fc:75ec:f163:3704",
+      "user_agent": "[FBAN/FB4A;FBAV/188.0.0.44.81;FBBV/123131256;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "zWuQ********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Long Beach, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1535874087,
+      "ip_address": "68.5.143.43",
+      "user_agent": "[FBAN/FB4A;FBAV/187.0.0.43.81;FBBV/122388438;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "J5SL********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Irvine, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1535612097,
+      "ip_address": "2600:1012:b004:7f46:8453:ff71:b503:9b13",
+      "user_agent": "[FBAN/FB4A;FBAV/186.0.0.48.81;FBBV/121473380;FBDM/{density=3.0,width=1080,height=2220};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "wZSH********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Pasadena, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1534974050,
+      "ip_address": "216.174.119.60",
+      "user_agent": "[FBAN/FB4A;FBAV/186.0.0.48.81;FBBV/121473380;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Yth9********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Los Angeles, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1534469274,
+      "ip_address": "2605:e000:8590:8300:e5fd:3dc2:551c:26bc",
+      "user_agent": "[FBAN/FB4A;FBAV/185.0.0.39.72;FBBV/120757080;FBDM/{density=3.0,width=1080,height=2220};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "miR2********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Los Angeles, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1533844790,
+      "ip_address": "216.174.119.60",
+      "user_agent": "[FBAN/FB4A;FBAV/184.0.0.41.79;FBBV/119894365;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Np1s********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Los Angeles, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1533274864,
+      "ip_address": "2600:1012:b12d:957c:edbf:40b3:a2a9:c2db",
+      "user_agent": "[FBAN/FB4A;FBAV/183.0.0.39.75;FBBV/119103922;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "8Opj********************",
+      "device": "Samsung Galaxy S8",
+      "location": "San Diego, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1532807697,
+      "ip_address": "68.5.143.43",
+      "user_agent": "[FBAN/FB4A;FBAV/181.0.0.36.82;FBBV/117559209;FBDM/{density=3.0,width=1080,height=2220};FBLC/en_US;FBRV/117968972;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Ecpc********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Irvine, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1532193638,
+      "ip_address": "2605:e000:8590:8300:61a4:16cb:fa3:657f",
+      "user_agent": "[FBAN/FB4A;FBAV/181.0.0.36.82;FBBV/117559209;FBDM/{density=3.0,width=1080,height=2220};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "ZmtT********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Los Angeles, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1531442240,
+      "ip_address": "2605:e000:8590:8300:5950:b6b6:abc5:ae64",
+      "user_agent": "[FBAN/FB4A;FBAV/180.0.0.35.82;FBBV/116984978;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "QPRH********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Los Angeles, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1531015149,
+      "ip_address": "2600:1012:b023:acc4:d140:332b:30d:1e89",
+      "user_agent": "[FBAN/FB4A;FBAV/179.0.0.44.83;FBBV/116255751;FBDM/{density=3.0,width=2076,height=1080};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "7W9B********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Los Angeles, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1530339429,
+      "ip_address": "2002:4405:8f2b:0:ec6f:ae2f:b292:4202",
+      "user_agent": "[FBAN/FB4A;FBAV/178.0.0.57.86;FBBV/115496549;FBDM/{density=3.0,width=1080,height=2220};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "ZSA3********************",
+      "device": "Samsung Galaxy S8",
+      "location": "New York, NY, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1530154876,
+      "ip_address": "68.148.22.61",
+      "user_agent": "[FBAN/FB4A;FBAV/178.0.0.48.86;FBBV/115193280;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/TELUS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "fE80********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Edmonton, AB, Canada",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1529890627,
+      "ip_address": "174.214.14.155",
+      "user_agent": "[FBAN/FB4A;FBAV/177.0.0.57.105;FBBV/114690096;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/TELUS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Q0cw********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Unknown location",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1529262239,
+      "ip_address": "68.5.143.43",
+      "user_agent": "[FBAN/FB4A;FBAV/176.0.0.42.87;FBBV/113613997;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "n7Am********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Irvine, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1528904602,
+      "ip_address": "174.212.16.52",
+      "user_agent": "[FBAN/FB4A;FBAV/175.0.0.40.97;FBBV/111983765;FBDM/{density=3.0,width=1080,height=2220};FBLC/en_US;FBRV/112316275;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "mjsh********************",
+      "device": "Samsung Galaxy S8",
+      "location": "San Diego, CA, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1528293238,
+      "ip_address": "128.135.98.194",
+      "user_agent": "[FBAN/FB4A;FBAV/175.0.0.40.97;FBBV/111983765;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "ducX********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1527865906,
+      "ip_address": "128.135.98.109",
+      "user_agent": "[FBAN/FB4A;FBAV/174.0.0.54.96;FBBV/111133995;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Searching for Service;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "MmIR********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1526571610,
+      "ip_address": "128.135.98.164",
+      "user_agent": "[FBAN/FB4A;FBAV/172.0.0.66.93;FBBV/108396287;FBDM/{density=3.0,width=1080,height=2220};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "WqL9********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1526137699,
+      "ip_address": "128.135.98.164",
+      "user_agent": "[FBAN/FB4A;FBAV/171.0.0.49.92;FBBV/107282091;FBDM/{density=3.0,width=1080,height=2220};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "YwP3********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1525356088,
+      "ip_address": "128.135.98.195",
+      "user_agent": "[FBAN/FB4A;FBAV/170.0.0.52.95;FBBV/105856864;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "OBbr********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1525267303,
+      "ip_address": "128.135.98.195",
+      "user_agent": "[FBAN/FB4A;FBAV/169.0.0.46.94;FBBV/104748722;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/105302482;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Z7vp********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Facebook app"
+    },
+    {
+      "created_timestamp": 1523976825,
+      "ip_address": "128.135.98.74",
+      "user_agent": "[FBAN/FB4A;FBAV/168.0.0.35.90;FBBV/103430910;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/7.0;FBBK/0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "eQrW********************",
+      "device": "Samsung Galaxy S8",
+      "location": "Chicago, IL, United States",
+      "app": "Facebook app"
+    }
+  ]
+}
